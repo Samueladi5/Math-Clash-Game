@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8895274f575273b4a9cc3af555ab263f, type: 3}
+  m_Name: MateriDB
+  m_EditorClassIdentifier: 
+  materi:
+  - Materi: "Bilangan bulat terdiri dari bilangan bulat positif atau bilangan asli,
+      bilangan nol dan bilangan bulat negatif. \\nPenjumlahan dan Pengurangan\\n
+      1. a + b = a + b\\n 2. a \u2013 b = a + (-b )\\n 3. -a + (-b) = \u2013 (a +
+      b) \\n4. a \u2013 (-b) = a + b "
+    Page: Halaman 1
+  - Materi: "Perkalian dan Pembagian\\nUntuk perkalian dan pembagian ketentuan yang
+      berlaku sama \\nBerlaku: \\n1.a x b = ab (bilangan positif) \\n2.a x (\u2013
+      b) = \u2013 ab (bilangan negatif) \\n3.(-a) x b = \u2013 ab (bilangan negatif)
+      \\n4. (-a) x (-b) = ab (bilangan positif) "
+    Page: Halaman 2
+  - Materi: Sifat Komutatif (pertukaran)\nPada penjumlahan a + b = b + a \nPada perkalian
+      a x b = b x a
+    Page: Halaman 3
+  - Materi: 'Sifat Asosiatif (pengelompokan) \nPada penjumlahan a + (b + c) = (a
+      + b) + c \nPada perkalian a x (b x c ) = (a x b) x c '
+    Page: Halaman 4
+  - Materi: "Sifat Distributif (penyebaran) \\nPada operasi perkalian terhadap penjumlahan
+      \\na x (b + c ) = (a x b ) + ( a x c ) \\nPada operasi perkalian terhadap pengurangan
+      \\na x (b \u2013 c ) = (a x b ) \u2013 ( a x c ) "
+    Page: Halaman 5
